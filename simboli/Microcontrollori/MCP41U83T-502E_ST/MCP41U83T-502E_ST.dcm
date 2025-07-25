@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP41U83T-502E_ST
+D Digital Potentiometer ICs 10Bit I2C/SPI 1-Ch Digi Pot with MTP memory (5K-Ohm)
+K
+F https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP41U83-Data-Sheet-DS20007000.pdf
+$ENDCMP
+#
+#End Doc Library
